@@ -1,4 +1,4 @@
-module github.com/dariopb/gosense
+module github.com/iammenotyou/gosense
 
 go 1.12
 
